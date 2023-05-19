@@ -1,0 +1,23 @@
+.left-background-image{
+   position: absolute;
+   top: 0;
+   left: 0;
+   z-index: 0;
+}
+.right-background-image{
+   position: absolute;
+   top: 0;
+   right: 0;
+   z-index: 0;
+}
+
+.logo{
+   display: block;
+   position: relative;
+   width: 190px;
+   height: 60px;
+   background: url('../../assets/logo.svg');
+   z-index: 1;
+   margin: auto;
+   margin-top: 60px;
+}
